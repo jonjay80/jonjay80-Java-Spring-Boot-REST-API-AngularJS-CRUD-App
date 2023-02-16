@@ -22,7 +22,7 @@ import com.jonjay80.restcrud.model.Employee;
 import com.jonjay80.restcrud.repository.EmployeeRepository;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://localhost")
 @RequestMapping("/api/v1")
 public class EmployeeController {
     @Autowired
