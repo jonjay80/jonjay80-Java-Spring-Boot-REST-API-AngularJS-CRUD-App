@@ -22,3 +22,7 @@ While in the restcrud directory:
 
 While in the angular directory: 
 ``` npm start ```
+
+
+In the browser:
+``` localhost:4200 ```
