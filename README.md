@@ -2,6 +2,8 @@
 
 DockerHub links to the images:  
 
+*Note: You need to have a Docker engine running.*
+
 Frontend:  
 ``` docker pull jonjay80/angular-frontend-spring-boot-rest-api ```  
 ```docker run -p 80:80 jonjay80/angular-frontend-spring-boot-rest-api```  
